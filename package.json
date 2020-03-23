@@ -2,7 +2,7 @@
   "name": "demo360",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://syltas.github.io/demo360",
+  "homepage": "https://Syltas.github.io/demo360",
   "scripts": {
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js && sh node_modules/react-360/scripts/copy_assets.sh",
